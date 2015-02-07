@@ -115,9 +115,12 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <figure>
-               <head>The Grand Idoll Iagernat.</head>
-            </figure>
+            <p>
+               <pb facs="tcp:6283:1"/>
+               <figure>
+                  <head>The Grand Idoll Iagernat.</head>
+               </figure>
+            </p>
             <p>
                <pb facs="tcp:6283:1" rendition="simple:additions"/>
 Newes from the East-INDIES: Or, A Voyage to <hi>Bengalla,</hi> one of the greatest Kingdomes under the High and Mighty Prince <hi>Pedesha Shassalem,</hi> usually called the Great <hi>Mogull.</hi> With the state and magnificence of the Court of <hi>Malcandy,</hi> kept by the <hi>Nabob</hi> Viceroy, or vice-King under the aforesayd Monarch: Also their detestable Religion, mad and foppish rites, and Ceremonies, and wic<g ref="char:EOLhyphen"/>ked Sacrifices and impious Customes used in those parts.</p>
@@ -282,7 +285,11 @@ The sixteenth day of <hi>Iune</hi> Master <hi>Ralph Cartwright</hi> tooke his jo
                <p>THe fifth day of <hi>November</hi> I was sent about the Companies businesse to the great City of <hi>Iag<g ref="char:EOLhyphen"/>garnat,</hi> and I travailed this day to a Towne called <hi>Madew,</hi> and I lodged all night in a <hi>Pagod,</hi> or <hi>Po<g ref="char:EOLhyphen"/>goda.</hi>
                </p>
                <p>The sixth day I <hi>William Bruton</hi> travailed eight Course, which is thirty two Miles <hi>English,</hi> and came to a Towne named <hi>Amudpoore,</hi> where I found met together, of men, women, and children, more than 3000; and all of them were Travellers and Raungers of the Countrey, having no residence, but are called <hi>Ashmen</hi>; (because they doe cast ashes upon themselves) also they are called <hi>Fuckeires,</hi> which are Religious names given to them for their sup<g ref="char:EOLhyphen"/>posed holinesse, but indeed they are very Rogues, such as our Gipsies be here in <hi>England,</hi> when they see their time and opportunity to put Rogery and Villany in practice: at this Towne I made no great stay, for I had a good charge about mee of the Companies.</p>
-               <figure/>
+               <p>The seventh day of <hi>November</hi> in the Morning about two of the Clocke, I hasted from <hi>Amud<g ref="char:EOLhyphen"/>poore,</hi> over a passage, and so for <hi>Iaggarnat,</hi> which was tenne Course betweene, that is forty Miles <hi>English,</hi> so about the houre of foure in the after<g ref="char:EOLhyphen"/>noone,
+<pb n="28" facs="tcp:6283:16"/>
+I drew neare to this great City of <hi>Iaggarnet,</hi> to which I passed over a great stone Causy, on either side whereof was a very goodly Tanke to wash in; this <figure/> Causey was about halfe a mile in length; then as I came to the West end of this City, I entred into
+<pb n="29" facs="tcp:6283:16"/>
+a very faire place for Scituation, furnished with ex<g ref="char:EOLhyphen"/>ceeding store of pleasant Trees and Groves, and on ei<g ref="char:EOLhyphen"/>ther side of the way Tankes of Water and <hi>Pagodoes</hi> in the midst of them. From thence I passed up into the High-streete, where I was entertained by a <hi>Bram<g ref="char:EOLhyphen"/>mine,</hi> (which is one of their Religious men, or Ido<g ref="char:EOLhyphen"/>latrous Priests) but let his Religion be what it would, into his House I went, and there I lodged all the time of my stay there.</p>
                <p>The Eighth day of <hi>November,</hi> in the Morning, after I had gone about the affaires that I was sent to doe, I went to view the City in some part, but especially that mighty <hi>Pagodo</hi> or <hi>Pagod,</hi> the Mirrour of all wic<g ref="char:EOLhyphen"/>kednesse and Idolatry: Unto this <hi>Pagod,</hi> or house of Sathan (as it may rightly be called) doe belong 9000. <hi>Brammines</hi> or Priests, which doe dayly offer Sacrifi<g ref="char:EOLhyphen"/>ces unto their great God <hi>Jagarnat,</hi> from which Idoll the City is so called; and when he is but named, then all the people in the Towne and Countrey doe bow and bend their knees to the ground, as the <hi>Moabites</hi> did to their Idoll <hi>Baal-Peor</hi>: Here they doe also offer their Children to this Idoll, and make them to passe through the Fire; and also they have an abhominable custome to cause or make them passe through the Wa<g ref="char:EOLhyphen"/>ter as Sacrifices unto the said ungodly God.</p>
                <p>This Idoll is in shape like a great Serpent, with se<g ref="char:EOLhyphen"/>ven Heads, and on the cheekes of each Head it hath the forme of a Wing upon each cheeke, which wings doe open and shut, and flappe, as it is carried in a state<g ref="char:EOLhyphen"/>ly Chariot, and the Idoll in the midd'st of it: and one of the <hi>Moguls</hi> sitting behinde it in the Chariot upon a convenient place with a Canopy, to keepe the Sunne from injuring of it.</p>
                <p>
